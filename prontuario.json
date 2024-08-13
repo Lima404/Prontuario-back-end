@@ -1,0 +1,16 @@
+[
+    {
+      "id": 1,
+      "cpf": "123.456.789-00",
+      "tipoSanguineo": "O+",
+      "alergias": "Nenhuma",
+      "possuirDoencaCronica": true,
+      "qualDoenca": "Diabetes",
+      "usoContinuoMedicamento": true,
+      "qualMedicamento": "Insulina",
+      "historicoDoencas": "Nenhum",
+      "historicoMedicamentos": "Nenhum",
+      "exames": "Hemograma completo"
+    }
+  ]
+  
